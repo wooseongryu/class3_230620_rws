@@ -17,7 +17,4 @@ public class JEJController {
 	public void lyl2() {
 		System.out.println("~~~");
 	}
-	public void jej2() {
-		System.out.println("이겼당!");
-	}
 }
