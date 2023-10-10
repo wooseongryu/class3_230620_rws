@@ -1,4 +1,4 @@
-package com.test_git.my.controller;
+package com.test.git_my.controller;
 
 public class LYLController {
 
