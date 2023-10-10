@@ -12,9 +12,17 @@ public class JEJController {
 	public void lyl() {
 		
 	}
+	public void ceh2() {
+		
+	}
+	
 	
 	// 예림이가 작성한 두번째 메서드
 	public void lyl2() {
 		System.out.println("~~~");
+	}
+	
+	public void lyl3() {
+		System.out.println("내가 짱!");
 	}
 }
