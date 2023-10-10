@@ -6,4 +6,8 @@ public class JEJController {
 	public void ceh() {
 		
 	}
+	// 예림이가 작성한 메서드
+	public void lyl() {
+		
+	}
 }
