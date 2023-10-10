@@ -10,4 +10,8 @@ public class JEJController {
 	public void lyl() {
 		
 	}
+	public void ceh2() {
+		
+	}
+	
 }
