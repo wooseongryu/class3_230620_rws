@@ -15,4 +15,8 @@ public class JEJController {
 	public void lyl2() {
 		System.out.println("~~~");
 	}
+	
+	public void lyl3() {
+		System.out.println("내가 짱!");
+	}
 }
